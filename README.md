@@ -4,17 +4,17 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ## Table of contents
 
-- Overview
+- [Overview](#overview)
 
-- My process
+- [My process](#my-process)
 
-   - Built with
+   - [Built with](#built-with)
 
-   - What I learned
+   - [What I learned](#what-i-learned)
 
-      - Mortgage repayment formula
+      - [Mortgage repayment formula](#mortgage-repayment-formula)
 
-- Resources
+- [Resources](#resources)
 
 ## Overview
 
